@@ -1,2 +1,3 @@
 # my-portfolio
-The html and backend for my portfolio website 
+the website can be accesses using the link http://krishna2020.eu.pythonanywhere.com/. Its deployed on python
+anywhere. Its just a template and doesnt actually have any useful information on it.
